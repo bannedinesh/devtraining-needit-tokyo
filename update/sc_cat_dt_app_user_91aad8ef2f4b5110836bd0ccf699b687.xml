@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_dt_app_user">
+    <sc_cat_dt_app_user action="INSERT_OR_UPDATE">
+        <approver/>
+        <sc_cat_item_dt_approval/>
+        <sys_class_name>sc_cat_dt_app_user</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-14 17:58:09</sys_created_on>
+        <sys_id>91aad8ef2f4b5110836bd0ccf699b687</sys_id>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sc_cat_dt_app_user_91aad8ef2f4b5110836bd0ccf699b687</sys_update_name>
+    </sc_cat_dt_app_user>
+</record_update>
